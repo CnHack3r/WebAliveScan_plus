@@ -1,4 +1,4 @@
-# WebAliveScan
+# WebAliveScan_plus
 
 WebAliveScan 是一个高效的Web存活扫描工具，用于快速检测目标网站的存活状态、端口开放情况，并识别网站的应用技术栈。
 
