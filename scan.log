@@ -1,0 +1,7 @@
+2026-01-05 10:56:40,743 - WebAliveScan - INFO - Threads: 5 | Number of requests: 1
+2026-01-05 10:56:40,745 - WebAliveScan - INFO - Target: www.example.com
+2026-01-05 10:56:40,910 - WebAliveScan - DEBUG - 响应头编码: ISO-8859-1, 内容长度: 513
+2026-01-05 10:56:40,913 - WebAliveScan - DEBUG - 响应头: {'Connection': 'close', 'Transfer-Encoding': 'chunked', 'Age': '9907', 'Allow': 'GET, HEAD', 'Cf-Cache-Status': 'HIT', 'Cf-Ray': '9b8fb4366aca850e-HKG', 'Content-Encoding': 'gzip', 'Content-Type': 'text/html', 'Date': 'Mon, 05 Jan 2026 02:56:42 GMT', 'Last-Modified': 'Sat, 03 Jan 2026 05:42:27 GMT', 'Server': 'cloudflare', 'Vary': 'Accept-Encoding'}
+2026-01-05 10:56:40,913 - WebAliveScan - DEBUG - chardet检测到的编码: ascii
+2026-01-05 10:56:40,916 - WebAliveScan - DEBUG - 识别到的应用: {}
+2026-01-05 10:56:41,024 - WebAliveScan - INFO - Alive result save to: C:\Users\14708\Desktop\WebAliveScan-master\results\1767581800_alive_results.csv
